@@ -1,0 +1,139 @@
+* {
+    font-family: 'Lobster', sans-serif;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 200%;
+
+    
+}
+
+header{
+background-color: none;
+color: white;
+padding: 15px;
+margin: 10px;
+height: 15px;
+width:100%;
+background-size:100% 100%;
+
+background-repeat: no-repeat;
+background-position: fill;
+background-size: auto;
+}
+
+.logoalura{
+text-align: left;
+
+}
+
+.admyprog{
+font-size: 0.7rem
+
+}
+
+body {
+    background-color: dimgray;
+    color: black;
+    border-radius:20px;
+    background-image: url("backgroundtec.gif");
+}
+
+footer{
+background-color: darkred;
+text-align:center;
+font-family: Lobster ;
+width: 100% 100%;
+padding:px;
+border:  double white 9px;
+display: grid;
+border-radius: 10px;
+background-image:url("matrix-code.gif");
+
+}
+
+
+main {
+   
+    margin-left: 80px;
+    display: flex;
+   
+    
+} 
+
+.input-texto {
+    margin-top: 100px;
+    display:flex;
+    color: black;
+    padding-right: 15px;
+    
+}
+
+.mensaje {
+    position: center;
+    margin-top: 100px;
+    padding-right: 50px;
+
+    background-image: url("desencriptar.gif");
+    background-repeat: no-repeat;
+    background-position: fill;
+    background-size: 100% 100%;
+}
+
+
+
+.copiar {
+    
+
+    background-color: blue;
+    margin-left: 50px;
+    margin-block: 10px;
+    margin-bottom: 50px;
+    
+}
+
+.botones {
+    display: flex;
+    padding-top: 24px;
+padding-block: 50px
+    align-content: center;
+    margin-left: 50px;
+    margin-block: 10px;
+    margin-bottom: 50px;
+  
+    border-radius: 10px;
+   
+}
+
+.encriptar {
+    background-color: darkblue;
+    background-color:darkblue;
+    padding: 15x;
+}
+
+.desencriptar {
+    margin-left: 30px;
+    background-color:darkred;
+    padding: 15x;
+}
+
+.nombre{
+    font-family: Lobster;
+    margin-bottom; 4px;
+
+}
+
+.informacion {
+    font-size: 15px bold;
+    font-size: 
+}
+
+footer{
+    text-align: center;
+    background: url(matrix-code.gif);
+    padding:40px;
+}
+
+.copyright{
+    color:#FFFFFF;
+    font-size: 14px;
+    margin:20px;
