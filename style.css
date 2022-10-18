@@ -37,6 +37,7 @@ body {
     border-radius:20px;
     background-image: url("backgroundtec.gif");
     background-repeat: no-repeat;
+    background-size: auto;
 }
 
 footer{
